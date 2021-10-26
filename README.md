@@ -1,3 +1,3 @@
 # PicGo
 
-Just an image bank.
+Just a Picture Warehouse.
